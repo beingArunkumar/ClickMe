@@ -30,7 +30,6 @@ public class clickjack extends JPanel {
     public clickjack() {
 
         final JTextField txt = new JTextField("Please enter the web 
-
 page address here");
         txt.setBounds(30, 30, 400, 30);
         txt.addMouseListener(new MouseAdapter() {
