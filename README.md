@@ -1,12 +1,17 @@
-ClickMe
-=======
+OWASP Click Me
+==============
 
-Written by Arun Kumar,please see the enclosed LICENSE.txt for terms and conditions of use.
+Written by Arun Kumar,
 
-ClickMe will help you to create a test page for Click jacking vulnerability.
-If a website is vulnerable to Clickjacking ,then target web page can be loaded into an frame.
-To do this we need to create a simple web page that includes a frame containing the target web page.
-This can be done using Click Me in an easy way.
+
+OWASP Click Me Project
+
+The OWASP Click Me Project aimed at having a simple GUI which helps to create a test page for Clickjacking attacks.This type of attack occurs when a malicious site tricks a user into clicking on a hidden element that belong to another site which they have loaded in a hidden frame or iframe. OWASP Click Me tool will help you to test whether your site is vulnerable to this attack by creating a html page that will try to load your web site from a frame.
+Licensing
+
+The OWASP Click Me Project is free to use. It is licensed under the Apache 2.0 License.
+
+https://www.owasp.org/index.php/OWASP_Click_Me_Project
 
 
 
