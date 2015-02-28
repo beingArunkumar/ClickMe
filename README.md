@@ -8,7 +8,10 @@ user into clicking on a hidden element that belong to another site which they ha
 
 is vulnerable to this attack by creating a html page that will try to load your web site from a frame.
 
-Requirements : Need JRE to run the jar file.
+Requirements :
+Currently a simple html version is there,where you can directly load the html in browser and give the test url.
+Java GUI is also there,need JRE to run the jar file.
+Python script is also available.
 
 The OWASP Click Me Project is free to use. It is licensed under the Apache 2.0 License.
 
